@@ -1,4 +1,4 @@
-#Implémentation d’une plateforme VPN/MPLS
+# Implémentation d’une plateforme VPN/MPLS
 
 La société CSIQ est constitué de 6 sites distants. Elle a besoin d’une connectivité vers ses sites
 distants en gardant son réseau confidentiel.
@@ -19,7 +19,6 @@ grâce à BGP et son extension multi protocole VPN-IPv4 (MP-BGP).
 La société CSIQ souhaite créer des VPN entre ces différents sites pour rendre l’accès aux
 données de l’entreprise plus confidentiel et permanent.
 
-Mini Projet RESA 2 N.HAMANI 2021
 Travail demandé :
 1. Proposer un plan d’adressage pour les différents sites et pour le réseau du provider. Les
 réseaux connectés aux CE sont de préfixe /24 alors que les réseaux point à point sont de
